@@ -17,3 +17,7 @@ Of course you can, you don't even have to ask for my permission but you do have 
  
 
 & also you can edit the code of this mod a make your own fork if you credit me :)
+
+# You can download the mod here:
+
+https://www.curseforge.com/minecraft/mc-mods/rotten-flesh-now-useful
