@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cookedfleshtoleather",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "rotten_flesh_now_useful:cooked_flesh"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

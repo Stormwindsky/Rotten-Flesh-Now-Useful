@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1.3,
+  "cookingtime": 192,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "rotten_flesh_now_useful:cooked_flesh"
+}

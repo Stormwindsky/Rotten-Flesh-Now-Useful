@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT License"
+
+[[mods]]
+modId="rotten_flesh_now_useful"
+version="1.0.0"
+displayName="Rotten Flesh Now Useful"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="storm, MCreator"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.rotten_flesh_now_useful]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.223,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotten_flesh_now_useful]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
