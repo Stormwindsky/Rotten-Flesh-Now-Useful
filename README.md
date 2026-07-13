@@ -20,7 +20,7 @@ Of course you can, you don't even have to ask for my permission & also no need t
 
 Coming Soon
 
-# Credits
+## Credits
 
 
 Credit to AntumDeluge for the original ''Cured Flesh'' & edited by me (note the assets i edited is also under license CC0 1.0)
