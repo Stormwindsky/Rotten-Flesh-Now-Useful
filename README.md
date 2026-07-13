@@ -19,3 +19,10 @@ Of course you can, you don't even have to ask for my permission & also no need t
 ## You can download the mod here:
 
 Coming Soon
+
+# Credits
+
+
+Credit to AntumDeluge for the original ''Cured Flesh'' & edited by me (note the assets i edited is also under license CC0 1.0)
+
+here: https://opengameart.org/content/cc0-food-icons
