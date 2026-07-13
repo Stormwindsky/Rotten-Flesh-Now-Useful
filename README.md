@@ -18,6 +18,8 @@ Of course you can, you don't even have to ask for my permission & also no need t
 
 ## You can download the mod here:
 
+https://gamejolt.com/games/rfnu/1083736
+
 https://www.curseforge.com/minecraft/mc-mods/rotten-flesh-now-useful
 
 
