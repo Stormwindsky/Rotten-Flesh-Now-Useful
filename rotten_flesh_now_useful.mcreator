@@ -1,0 +1,94 @@
+{
+  "mod_elements": [
+    {
+      "name": "CuredFlesh",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cured_flesh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/rotten_flesh_now_useful/models/item/cured_flesh.json",
+          "src/main/java/net/mcreator/rottenfleshnowuseful/item/CuredFleshItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CuredFleshToLeather",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cured_flesh_to_leather",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rotten_flesh_now_useful/recipes/cured_flesh_to_leather.json"
+        ]
+      }
+    },
+    {
+      "name": "RfTGFOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rf_tgf_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rotten_flesh_now_useful/recipes/rf_tgf_one.json"
+        ]
+      }
+    },
+    {
+      "name": "RfTGFTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rf_tgf_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rotten_flesh_now_useful/recipes/rf_tgf_two.json"
+        ]
+      }
+    },
+    {
+      "name": "RfTGFThree",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rf_tgf_three",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rotten_flesh_now_useful/recipes/rf_tgf_three.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.rotten_flesh_now_useful.cured_flesh": "Cured Flesh"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rotten_flesh_now_useful",
+    "modName": "Rotten Flesh Now Useful",
+    "version": "1.0.0",
+    "author": "stormwindsky, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.rottenfleshnowuseful"
+  },
+  "mcreatorVersion": 202400452410
+}

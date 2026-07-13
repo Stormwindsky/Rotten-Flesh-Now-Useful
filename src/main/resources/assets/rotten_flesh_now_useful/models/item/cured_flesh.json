@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rotten_flesh_now_useful:item/cured_flesh"
+  }
+}
